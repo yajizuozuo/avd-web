@@ -1,8 +1,12 @@
 <template>
 <div>
   <Head />
-  <Tutorial/>
-
+  <!-- <Tutorial/> -->
+  <Banner />
+  <BanInfo />
+  <Tokenomics />
+  <Roadmap />
+  <Footer />
 </div>
 </template>
 
